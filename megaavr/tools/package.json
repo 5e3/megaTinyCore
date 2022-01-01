@@ -1,0 +1,20 @@
+{
+  "name": "tool-serialupdi",
+  "version": "1.2.0",
+  "description": "UPDI programming for Arduino using a serial adapter",
+  "keywords": [
+    "tools",
+    "uploader",
+    "microchip",
+    "megaavr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpenceKonde/megaTinyCore"
+  },
+  "system": [
+    "windows",
+    "windows_amd64",
+    "windows_x86"
+  ]
+}
